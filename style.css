@@ -1,0 +1,80 @@
+body{
+    background-image: url(./background.jpg);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    place-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+}
+main{
+    background-color: white;
+    width: 20rem;
+    border-radius: 5px;
+    padding: 2rem;
+    margin: auto;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     margin: 0 1rem 2rem;
+}
+.h2{
+    color: blue;
+    margin-bottom: -1rem;
+}
+.dash{
+    width: 2rem;
+    border-top: 4px solid lightblue;
+}
+
+.three{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 1rem 2rem;
+}
+.three p{
+    margin: 0;
+    font-size: small;
+}
+.flight{
+    color: gray;
+}
+.gate{
+    color: gray;
+}
+.seat{
+    color: gray;
+}
+.pas{
+    color: gray;
+    font-size: 1rem;
+    margin-bottom: -1rem;
+}
+.rob{
+
+    font-size: 1rem;
+    
+}
+.class{
+    color: gray;
+    font-size: 1rem;
+    margin-bottom: -1rem;
+}
+.bussiness{
+    font-size: 1rem;
+}
+.depart{
+   color: gray;
+    font-size: 1rem;
+    margin-bottom: -1rem;
+}
+.time{
+    font-size: 1rem;
+}
+.down-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
